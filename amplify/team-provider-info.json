@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-grantconnectai-dev-214436-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282012782513:role/amplify-grantconnectai-dev-214436-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282012782513:role/amplify-grantconnectai-dev-214436-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-grantconnectai-dev-214436-deployment",
+      "UnauthRoleName": "amplify-grantconnectai-dev-214436-unauthRole",
+      "StackName": "amplify-grantconnectai-dev-214436",
+      "StackId": "arn:aws:cloudformation:us-east-1:282012782513:stack/amplify-grantconnectai-dev-214436/5e08ffd0-d459-11ee-9624-0e953f2fa731",
+      "AmplifyAppId": "d2o18yhdd1x45b"
+    }
+  }
+}
